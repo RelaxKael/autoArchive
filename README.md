@@ -7,7 +7,7 @@
 *********************
 eg.cd /Users/XXXX/Documents/XXXX
 *********************
-使用者根据自身情况，对build_object.rb中replace_project_info函数进行修改，调试
+使用者根据自身情况，对build_object.rb中prepare函数进行修改，调试
 *********************
 本文仅供参考
 ********************
