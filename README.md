@@ -5,7 +5,7 @@
 1.打开资源文件夹，在当前文件夹复制拷贝58 80 120三张图片(该尺寸图片使用了两个地方)
 2.创建配置文件 打开终端 cd到资源目录,输入命令 vim configure_info创建配置文件。按I插入 添加配置信息(亦可以在finder中使用文本编辑器打开输入),完成后esc输入:wq保存并退出
 *********************
-eg.cd /Users/imac/Documents/TTWorkPlace/20170703/logo/博今教育
+eg.cd /Users/imac/Documents/TTWorkPlace/20170703/logo/XXXX
 *********************
 
 *********************
